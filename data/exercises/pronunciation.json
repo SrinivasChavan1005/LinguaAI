@@ -1,0 +1,54 @@
+{
+  "general": {
+    "label": "Everyday sentences",
+    "sentences": [
+      "Could you please tell me where the nearest bus stop is?",
+      "I usually wake up at seven and have breakfast with my family.",
+      "Thank you so much for your help yesterday.",
+      "I would like to book a table for two people tonight.",
+      "What time does the meeting start tomorrow morning?"
+    ]
+  },
+  "th": {
+    "label": "TH sounds (think / this)",
+    "sentences": [
+      "I think this is the third time this month.",
+      "Thank you for thinking of them.",
+      "My brother and father both thought the weather was great.",
+      "There are three things I want to mention."
+    ]
+  },
+  "v_w": {
+    "label": "V and W sounds (very / west)",
+    "sentences": [
+      "We visited a very beautiful village in the west.",
+      "Would you like to watch a video with us?",
+      "Victor waited while Wendy wrote the invitation."
+    ]
+  },
+  "r_l": {
+    "label": "R and L sounds (right / light)",
+    "sentences": [
+      "Turn right at the light near the library.",
+      "Please read the rules really carefully.",
+      "Larry learned to play the violin last year."
+    ]
+  },
+  "endings": {
+    "label": "Word endings (-ed, -s)",
+    "sentences": [
+      "She worked hard and finished all her tasks.",
+      "He likes books, maps and old photographs.",
+      "We walked to the park and talked for hours."
+    ]
+  },
+  "interview": {
+    "label": "Interview phrases",
+    "sentences": [
+      "I have two years of experience in software development.",
+      "One of my strengths is that I communicate clearly with my team.",
+      "I am looking for an opportunity to grow and learn new skills.",
+      "Could you tell me more about the team I would be working with?"
+    ]
+  }
+}

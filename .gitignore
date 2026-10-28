@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+venv/
+.venv/
+
+# Local data (private!)
+data/linguaai.db*
+data/settings.json
+data/*.tmp
+logs/*.log*
+logs/launch_port.txt
+*.wav
+
+# Models (large; downloaded by scripts/download_models.py)
+models/whisper/*
+models/piper/*
+!models/README.md
+
+# Local configuration
+.env

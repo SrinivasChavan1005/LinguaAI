@@ -1,0 +1,11 @@
+# LinguaAI dependencies - pinned versions verified to have Windows (win_amd64)
+# wheels for Python 3.11, 3.12 and 3.13. Install with:  pip install -r requirements.txt
+streamlit==1.66.1        # local web interface
+faster-whisper==1.2.1    # offline speech recognition (includes Silero VAD)
+piper-tts==1.8.0         # offline neural text-to-speech
+numpy==2.3.5
+scipy==1.16.3            # WAV reading and resampling
+pandas==2.3.3            # progress tables and charts
+requests==2.34.2         # talks to the local Ollama server on 127.0.0.1
+psutil==7.2.2            # memory diagnostics
+pytest==9.1.1            # automated tests

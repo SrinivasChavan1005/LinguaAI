@@ -1,0 +1,17 @@
+# LinguaAI Streamlit configuration - local and private by default.
+[server]
+address = "127.0.0.1"        # only reachable from this computer
+headless = true              # the launcher opens the browser itself
+fileWatcherType = "none"     # don't watch files (saves CPU); restart after editing code
+maxUploadSize = 50
+enableXsrfProtection = true
+
+[browser]
+gatherUsageStats = false     # no usage statistics are sent to Streamlit
+serverAddress = "localhost"
+
+[client]
+toolbarMode = "minimal"
+
+[theme]
+primaryColor = "#0f766e"
